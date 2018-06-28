@@ -42,6 +42,7 @@
     "url": "https://github.com/South-Paw/salien-script-js.git"
   },
   "scripts": {
+    "start": "node bin/env_run.js",
     "lint": "eslint ./src",
     "prepublishOnly": "npm run lint",
     "prettier": "prettier --write \"src/**/*.js\"",

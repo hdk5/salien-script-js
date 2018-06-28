@@ -1,4 +1,4 @@
-const SalienScript = require('./src/index.js');
+const SalienScript = require('../src/index.js');
 
 let configs;
 

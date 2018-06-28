@@ -1,1 +1,1 @@
-salien: node heroku.js
+salien: node bin/env_run.js
