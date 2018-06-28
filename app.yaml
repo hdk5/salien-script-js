@@ -1,0 +1,4 @@
+runtime: nodejs
+env: flex
+env_variables:
+  SALIEN_CONFIG_V2: '[{"token":"YOUR_TOKEN"}]'
